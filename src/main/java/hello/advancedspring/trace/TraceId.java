@@ -9,7 +9,7 @@ public class TraceId {
 
     public TraceId() {
         this.id = createId();
-        this.level = level;
+        this.level = 0;
     }
 
     private TraceId(String id, int level) {
