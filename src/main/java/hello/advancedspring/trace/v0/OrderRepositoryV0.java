@@ -1,4 +1,4 @@
-package hello.advancedspring.v0;
+package hello.advancedspring.trace.v0;
 
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Repository;

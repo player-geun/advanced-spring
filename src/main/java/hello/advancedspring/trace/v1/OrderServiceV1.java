@@ -1,4 +1,4 @@
-package hello.advancedspring.v1;
+package hello.advancedspring.trace.v1;
 
 import hello.advancedspring.trace.TraceStatus;
 import hello.advancedspring.trace.hellotrace.HelloTraceV1;

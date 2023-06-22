@@ -1,10 +1,8 @@
-package hello.advancedspring.v5;
+package hello.advancedspring.trace.v5;
 
 import hello.advancedspring.trace.callback.TraceCallback;
 import hello.advancedspring.trace.callback.TraceTemplate;
 import hello.advancedspring.trace.logtrace.LogTrace;
-import hello.advancedspring.trace.template.AbstractTemplate;
-import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

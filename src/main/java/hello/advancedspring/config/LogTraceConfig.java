@@ -1,4 +1,4 @@
-package hello.advancedspring;
+package hello.advancedspring.config;
 
 import hello.advancedspring.trace.logtrace.FieldLogTrace;
 import hello.advancedspring.trace.logtrace.LogTrace;
